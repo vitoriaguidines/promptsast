@@ -1,0 +1,2 @@
+# Normalize line endings to LF everywhere (Docker images and CI runners are Linux)
+* text=auto eol=lf
